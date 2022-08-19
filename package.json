@@ -1,0 +1,19 @@
+{
+  "name": "scrimba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A11y-Cat/Counter-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A11y-Cat/Counter-App/issues"
+  },
+  "homepage": "https://github.com/A11y-Cat/Counter-App#readme"
+}
